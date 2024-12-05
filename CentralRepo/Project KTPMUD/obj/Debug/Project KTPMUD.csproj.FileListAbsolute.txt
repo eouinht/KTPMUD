@@ -1,0 +1,49 @@
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\bin\Debug\Project KTPMUD.exe.config
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\bin\Debug\Project KTPMUD.exe
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\bin\Debug\Project KTPMUD.pdb
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\Project KTPMUD.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\App.g.cs
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\Project KTPMUD_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\Project KTPMUD_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\Project KTPMUD.g.resources
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\Project_KTPMUD.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\Project KTPMUD.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\Project KTPMUD.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\Project KTPMUD.exe
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\Project KTPMUD.pdb
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\HuyenWindow.g.cs
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\AdminWindow.g.cs
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\XaWindow.g.cs
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\HuyenWindow.baml
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\AdminWindow.baml
+C:\Users\ADMIN\source\repos\Project KTPMUD\Project KTPMUD\obj\Debug\XaWindow.baml
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\bin\Debug\Project KTPMUD.exe.config
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\bin\Debug\Project KTPMUD.exe
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\bin\Debug\Project KTPMUD.pdb
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\Project KTPMUD.csproj.AssemblyReference.cache
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\DangKy.g.cs
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\HuyenWindow.g.cs
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\MainWindow.g.cs
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\AdminWindow.g.cs
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\XaWindow.g.cs
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\App.g.cs
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\Project KTPMUD_MarkupCompile.cache
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\Project KTPMUD_MarkupCompile.lref
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\HuyenWindow.baml
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\MainWindow.baml
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\AdminWindow.baml
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\XaWindow.baml
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\DangKy.baml
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\Project KTPMUD.g.resources
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\Project_KTPMUD.Properties.Resources.resources
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\Project KTPMUD.csproj.GenerateResource.cache
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\Project KTPMUD.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\Project KTPMUD.exe
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\Project KTPMUD.pdb
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\obj\Debug\Project KTPMUD_Content.g.cs
+C:\Users\TGDD\source\repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\bin\Debug\DKTK.mdf
+C:\Users\TGDD\source\repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\bin\Debug\DKTK_log.ldf
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\bin\Debug\Database1.mdf
+C:\Users\TGDD\Source\Repos\Quan-ly-ve-sinh-moi-truong-nong-thon\Project KTPMUD\bin\Debug\Database1_log.ldf
